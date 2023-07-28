@@ -3,7 +3,7 @@
 This repository is dedicated to defense problem
 
 The models:
- [/notebooks/models](/notebooks/modelss)
+ [/notebooks/modelss](/notebooks/models)
  -MLP
  -GRU
  -Linear
